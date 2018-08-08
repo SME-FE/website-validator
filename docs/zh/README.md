@@ -3,13 +3,14 @@ home: true
 actionText: Get Started →
 actionLink: /guide/install-and-usage
 features:
-- title: Approachable
-  details: The overall structure of your project will be quite similar to a normal Vue.js SPA.
-- title: Versatile
-  details: Like vue-cli but for server-rendered and static websites. 
-- title: Fast by default
-  details: Best practices baked-in, offline support and a lot of goodies.
+- title: 轻量
+  details: Only 6KB(min ver) with 100% test coverage
+- title: 可扩展
+  details: Can be extended, support logical operators
+- title: 快而简
+  details: Form field validate support and a lot of goodies.
 footer: MIT Licensed | Copyright © 2017-present hwen<hwenleung@gmail.com>
 ---
+
 
 <EasterEgg/>
