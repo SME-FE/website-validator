@@ -25,3 +25,5 @@ loaded as a standalone script
   validator.test('hwenleung@gmail.com', 'email') // => true
 </script>
 ```
+
+<EasterEgg/>

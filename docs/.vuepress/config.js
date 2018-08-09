@@ -1,4 +1,5 @@
 module.exports = {
+  base: '/website-validator/',
   title: 'SME Validator',
   description: 'Fast, Lightweight, Flexible Validator.',
   // TODO: add google ana

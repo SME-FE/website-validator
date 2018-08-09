@@ -27,3 +27,5 @@ const validator = new Validator()
   validator.test('hwenleung@gmail.com', 'email') // => true
 </script>
 ```
+
+<EasterEgg/>
