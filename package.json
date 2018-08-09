@@ -8,6 +8,7 @@
     "vuepress": "^0.13.0"
   },
   "dependencies": {
-    "sme-log": "^0.13.2"
+    "sme-log": "^0.13.2",
+    "vuepress-theme-one": "^0.12.2"
   }
 }
