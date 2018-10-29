@@ -4,7 +4,7 @@ actionText: Get Started →
 actionLink: /guide/install-and-usage
 features:
 - title: 轻量
-  details: Only 6KB(min ver) with 100% test coverage
+  details: Only 2.7KB(after gzip) with 100% test coverage
 - title: 可扩展
   details: Can be extended, support logical operators
 - title: 快而简
